@@ -1,0 +1,5 @@
+NAME     : PRANAY 
+GENDER   : MALE
+AGE      : 18
+ADDRESS  : KARIMNAGAR
+DOB      : 24|09|2003
